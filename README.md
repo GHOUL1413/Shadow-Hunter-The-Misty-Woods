@@ -5,4 +5,6 @@ Launch the game by opening "Shadow Hunter - The Misty Woods.exe". This project h
 
 This project featured VR integration with a library provided by Deakin University. Though the code is present, instructions on how to activate it are not given. A app would need to be downloaded and a pass code shared in order for that to work. The gameplay feature it enabled was allowing you to connect your phone/mobile, and use it like a hand held torch, allowing you to pivot the in game torch by tilting your device.
 
+Also features in game credit list for used assets.
+
 ![Preview:]()
